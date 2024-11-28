@@ -476,3 +476,4 @@ def main():
 
     for row in semishagof(url):
         print(row)
+        
